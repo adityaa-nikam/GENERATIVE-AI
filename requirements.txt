@@ -1,0 +1,14 @@
+openai
+groq
+google-genai
+mistralai
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+chromadb
+pypdf
+pandas
+numpy
