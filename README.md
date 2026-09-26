@@ -128,26 +128,6 @@ Examples include:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-generative-ai/
-│
-├── CineSage/
-│   └── ...
-│
-├── chatmodels/
-│   └── ...
-│
-├── embeddingmodels/
-│   └── ...
-│
-├── .env.example
-├── .gitignore
-├── requirements.txt
-└── README.md
-
-
 ## Learning Path
 
 This repository follows a progressive path from Generative AI fundamentals to advanced agentic systems.
